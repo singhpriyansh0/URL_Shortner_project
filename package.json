@@ -1,0 +1,27 @@
+{
+  "name": "day-6---url-shortner---tinyurl---project-1-small",
+  "version": "1.0.0",
+  "description": "first small project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singhpriyansh0/URL-shortner.git"
+  },
+  "author": "Priyansh Solanki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singhpriyansh0/URL-shortner/issues"
+  },
+  "homepage": "https://github.com/singhpriyansh0/URL-shortner#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nanoid": "^4.0.0",
+    "nodemon": "^2.0.20",
+    "sequelize": "^6.28.0",
+    "sqlite3": "^5.1.4"
+  }
+}
